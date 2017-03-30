@@ -167,8 +167,11 @@ gameMan(){
     for(int i=0;i<width+2;i++)
       cout<<"\xB2";
     cout<<endl<<endl;
-    cout<<"FLICKER PONG=============created by Another"<<endl;
-    cout<<"PLAYER1:-"<<score1<<":::::::::::::::::::::::PLAYER2:-"<<score2<<endl;
+    cout<<"FLICKER PONG============created by Another"<<endl;
+    cout<<"https://github.com/chuninpeter/pong"<<endl;
+    cout<<"                CONTROLS                      "<<endl;
+    cout<<"P1 uses W/S                    P2 uses I/K"<<endl;
+    cout<<"PLAYER1:-"<<score1<<"::::::::::::::::::::::PLAYER2:-"<<score2<<endl;
     cout<<endl<<endl;
     for(int i=0;i<width+2;i++)
       cout<<"\xB2";
